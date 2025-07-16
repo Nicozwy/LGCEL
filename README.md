@@ -1,7 +1,5 @@
 # LGCEL for Knowledge Concept Tagging
-Source codes will be available soon. 
-
-
+[AIED25 Best Papers Nominees](https://aied2025.itd.cnr.it/index.php/program/main-track-best-papers-nominees/)
 
 ### Please cite this paper as follows （BibTeX）: 
 ```
