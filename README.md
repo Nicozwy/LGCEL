@@ -7,8 +7,11 @@
   title={Local-Global Cascaded Ensemble Learning on Hybrid Experts for Knowledge Concept Tagging},
   author={Yang, Zhiwei and Yang, Jiahua and Wang, Longtao and Huo, Rongxin and Lin, Huiru and Zhou, Yuxuan and Luo, Weiqi},
   booktitle={The 26th International Conference on Artificial Intelligence in Education (AIED 2025)},
-  pages={pp.},
+  pages={408--421},
   year={2025},
+  publisher={Springer Nature Switzerland},
+  address={Cham},
+  isbn={978-3-031-98459-4}
 }
 ```
 :triangular_flag_on_post: If possible, could you please star this project. :star:  :arrow_upper_right:
